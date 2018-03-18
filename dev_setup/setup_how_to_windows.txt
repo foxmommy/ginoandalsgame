@@ -1,0 +1,24 @@
+How to setup this repository for windows.
+
+1) Make sure that you have the command line tools installed for windows from github
+
+2) Clone the repository into a directory of your choosing.
+
+Currentlty the dependencies for this game are:
+
+	- node.js
+	- phasor
+
+
+Follow the setup instructions for those dependencies
+
+
+Node.js
+	Setup instructions:
+		Download and install node.js from http://nodejs.org (windows installer) using default settings
+
+phasor
+	Setup instructions:
+		downlaod the zip for phasor here: https://phaser.io/download/stable
+
+		
